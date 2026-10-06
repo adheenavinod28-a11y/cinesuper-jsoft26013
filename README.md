@@ -7,7 +7,7 @@
 
 ## Live Website
 
-**Live Link:** https://redwanaliakbar.github.io/cinesuper-jsoft26013/
+**Live Link:** https://adheenavinod28-a11y.github.io/cinesuper-jsoft26013/
 
 ## My Personalisation
 
