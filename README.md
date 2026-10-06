@@ -1,13 +1,13 @@
-# cinesuper-jsoft26243
+# cinesuper-jsoft26013
 
 ## Student Details
 
-* **Name:** Redwan Ali Akbar
-* **Registration No:** jsoft26243
+* **Name:** Adheena Vinod
+* **Registration No:** jsoft26013
 
 ## Live Website
 
-**Live Link:** https://redwanaliakbar.github.io/cinesuper-jsoft26243/
+**Live Link:** https://redwanaliakbar.github.io/cinesuper-jsoft26013/
 
 ## My Personalisation
 
